@@ -1,0 +1,127 @@
+	#oper {
+		position: absolute;
+		left: 0; top: 0;
+    	height: 100px;
+    	background: black;
+    	width: 100%;
+    	border-radius: 0 0 25px 25px;
+    	z-index: 100;
+    }
+	div.footer{
+		position: absolute;
+		bottom:-50%;
+		left:0;
+		width: 100%;
+		height: 200px;
+		background: #202020;
+	}
+	#im1{margin-top: 15px;margin-left: 50px;}
+	#im2{margin-top: 15px;margin-left: 10px;}
+	#im3{margin-top: 15px;margin-left: 10px;}
+	#im4{margin-top: 15px;margin-left: 10px;}	
+	#txt{margin-left: 50px;font-family: italick;color: #464646;}
+	#Stand{
+		margin-left: 75px;
+		margin-top: 155px;
+		width: 600px;
+		height: 600px;
+		background: #D8D8D8;
+		border-radius: 30px;
+	}
+	#im5{
+		position: fixed;
+		margin-top: -150px;
+		width: 60px;
+		height: 60px;
+		z-index: 50;
+	}
+	#im6{margin-left:-10px;width:600px;height: 600px;}
+	#Xarackt{}
+	#namae{
+		margin-left:700px; 
+		margin-top: -600px;
+		width:620px;
+		height:70px;
+		background: #090909;
+		border-radius: 20px;
+	}
+	#txt1{
+		font-size: 25px;
+		font-family:verdana;
+		margin-top:-55px;
+		margin-left:720px; 
+		color: white;
+	}
+	#topscroll{
+		margin-left: 700px;
+		margin-top: 40px;
+		width: 624px;
+		height:70px;
+		border-top-right-radius: 20px;
+		border-top-left-radius: 20px;
+		background:#090909;
+	}
+	#scroll{
+		overflow-x: hidden;
+		overflow: auto;
+		margin-top: -12px;
+		margin-left: 700px;
+		width: 620px;
+		height: 300px;
+		background: #C8C8C8;
+		border-bottom-left-radius: 20px;
+		border-bottom:solid 4px black;
+		border-right: solid 4px black;
+	}
+	#xar{
+		margin-top: -55px;
+		margin-left:720px;
+		color: white;
+		font-family: arial black; 
+	}
+	#tr1{margin-left: 20px;font-family: arial;}
+	#tr2{margin-left: 25px;}
+	#glav{text-decoration: none;color: white;}
+	#glav:hover{color:#F4F781;}
+	#corzina{
+		margin-top: -65px;
+		width: 200px;
+		height: 60px;
+		background: #B0BF0B;
+		margin-left: 1100px;
+		border-radius: 20px;
+	}
+	#imgkorz{
+		margin-left: 10px;
+		margin-top: 13px;
+		width: 35px;
+		height: 35px;
+	}
+	#hr32{
+		font-family: arial black;
+		margin-left: 55px;
+		margin-top: -32px;
+	}
+#chennik{
+		position: relative;
+		z-index: 0;
+		margin-top: 20px;
+		margin-left: 1124px;
+		width: 200px;
+		height: 50px;
+		background: #33B000;
+		border-top-right-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+	#txt2{position: relative;z-index: 1; margin-left: 1165px;margin-top: -45px;font-family:verdana;font-size: 30px;color: #050505;}
+	#chennik2{
+		margin-top: -81px;
+		margin-left: 920px;
+		width: 200px;
+		height: 50px;
+		background: black;
+		border-top-left-radius: 10px;
+		border-bottom-left-radius: 10px;
+	}
+	#txt2t2{margin-left: 985px;margin-top: -46px;font-family:arial black;font-size: 30px;color: white;}
+	

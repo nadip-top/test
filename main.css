@@ -1,0 +1,120 @@
+#pe{
+		width: 225px;
+		height: 410px;
+		margin-left: 146px;
+		background: #a7a7a7;
+		border-radius: 20px;
+		margin-top: 200px;
+		}
+#oper {
+		position: fixed;
+		left: 0; top: 0;
+    	height: 100px;
+    	background: black;
+    	width: 100%;
+    	border-radius: 0 0 25px 25px;
+    	z-index: 100;
+    }
+#ih{
+		display: inline-block;
+		width: 200px;
+		height: 30px;
+		background: blue;
+		margin-top: 50px;
+	}
+div.footer{
+		position: absolute;
+		bottom:-100%;
+		left:0;
+		width: 100%;
+		height: 270px;
+		background: #202020;
+	}
+	#im1{
+		margin-top: 15px;
+		margin-left: 50px;
+	}
+	#im2{
+		margin-top: 15px;
+		margin-left: 10px;
+	}
+	#im3{
+		margin-top: 15px;
+		margin-left: 10px;
+	}
+	#im4{
+		margin-top: 15px;
+		margin-left: 10px;
+	}	
+	#txt{
+		margin-left: 50px;
+		font-family: italick;
+		color: #464646;
+	}
+	#tovos{
+		margin-left: 150px;
+		margin-top: 500px;
+		width: 225px;
+		height: 300px;
+		border: solid 2px black;
+		background: #eeeeee;
+		border-radius:30px; 
+	}
+	#tovo{
+		position: relative;
+		margin-left: 149px;
+		margin-top: -304px;
+		width: 55px;
+		height: 55px;
+		border: solid 2px black;
+		background: peru;
+		border-radius:500px;
+		z-index:2;
+
+	}
+	#img1{
+		margin-top:2px; 
+		padding: 5px;
+		width: 40px;
+		height: 40px;
+	}
+	#scrip {
+		position: relative;
+		margin-left: 150px;
+		margin-top: -59px;
+		width: 53px;
+		height:55px;
+		background: #9D9B2D;
+		border: solid 2px black;
+		border-radius: 500px;
+		z-index: 1;
+	}
+	#scriptxt{
+		: 0px;
+	}
+	.jk{
+		font-size: 18px;
+		color: black;
+	}
+	#jojo{
+		margin-left:322px;
+		margin-top: -59px;
+		z-index: 50;
+		position: absolute;
+		width:53px;
+		height:55px;
+		background: green;
+		border-radius: 500px;
+		border: solid 2px black;
+	}
+	#img2{
+		padding: 10px;
+		width: 35px;
+		height: 35px;
+	}
+	#mike{
+		margin-top: 10px;
+		margin-left: 190px;
+		width: 150px;
+		height: 150px;
+	}
